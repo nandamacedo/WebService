@@ -1,0 +1,16 @@
+{
+    "name": "nandamacedo/WebService",
+    "description": "Aplicação para demonstrar o funcionamento de um Web Service",
+    "type": "project",
+    "licence": "MIT",
+    "authors": [
+        {
+            "name": "Fernanda Macedo",
+            "email": "nanda.macedo.san@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
