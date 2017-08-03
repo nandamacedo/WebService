@@ -1,0 +1,17 @@
+body{
+
+	background-image: url(4542.jpg);
+  max-width: 100%;
+background-size:100% auto;
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+
+.container{
+   color:white;
+}
